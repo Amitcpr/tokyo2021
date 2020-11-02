@@ -1,0 +1,62 @@
+body{
+margin: 0;
+}
+.brand{
+  height: 6rem;
+  width: 5rem;
+  margin: 1rem  0 1rem;
+}
+
+
+.nb{
+  margin-right: 22%;
+  margin-top: 1rem;
+  text-align: center;
+
+}
+.nvt{
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+.ma{
+  padding: 0 1rem;
+}
+.olympic{
+  height: 20rem;
+  width: 42rem;
+  margin-top: 2rem;
+
+}
+.Tokyo{
+  margin-top: 2rem;
+  font-size: 4rem;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.div2{
+margin: 5rem 20rem;
+}
+.nw{
+  font-weight: bolder;
+  font-size: 2.7rem;
+  padding: 0 15rem;
+}
+
+
+.img {
+
+
+}
+.img:hover {
+  opacity: .8;
+
+}
+.feature{
+  background-color: black;
+}
+.div3{
+  margin: 2rem 24rem;
+}
+.follow{
+  margin: 3rem 15rem;
+
+}
